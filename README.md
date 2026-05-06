@@ -33,8 +33,11 @@ household patterns across all districts of Nepal.
 ![Household Size](chart5_avg_household_size.png)
 
 ## Key Insights
-- Total Nepal Population: [your number]
-- Most Populated District: [your finding]
-- Least Populated District: [your finding]
-- Gender Ratio: [your finding]
-- Average Household Size: [your finding]
+- Total Population of Nepal:     29,074,990
+-  Total Male Population:         14,188,639
+- Total Female Population:       14,886,351
+- Gender Ratio (F per 100 M):    104.9
+- Total Districts Analyzed:      77
+- Most Populated District:       Kathmandu (1,988,606)
+- Least Populated District:      Manang (4,925)
+- Avg Household Size in Nepal:   5.15 people
